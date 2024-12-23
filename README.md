@@ -60,9 +60,9 @@ This project implements an Ecommerce API to support various e-commerce operation
   - **Body:**
     ```json
     {
-        "name": "shubham",
-        "email": "shubham@gmail.com",
-        "password": "shubham123"
+        "name": "Manas",
+        "email": "Manas3638@gmail.com",
+        "password": "Manas123"
     }
     ```
 
@@ -71,8 +71,8 @@ This project implements an Ecommerce API to support various e-commerce operation
   - **Body:**
     ```json
     {
-        "email": "shubham@gmail.com",
-        "password": "shubham123"
+        "email": "Manas@gmail.com",
+        "password": "Manas123"
     }
     ```
 
